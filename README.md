@@ -29,6 +29,9 @@
 - Hệ chuyên gia này sẽ hỏi và trả lời liên tục, nếu người dùng muối dừng sẽ nhập 0 để thoát chương trình.
 
 ## Ngôn ngữ lập trình
-- Trong bài bài sử dụng ngôn ngữ java là chủ yếu. 
+- Trong bài bài sử dụng ngôn ngữ java và python.
+
+## Đường link trên Github
+[Github](https://github.com/nguyenvutriet/HeChuyenGia_DuDoanTinhCachQuaCachAnMat)
 
 
